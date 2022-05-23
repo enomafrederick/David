@@ -4,4 +4,5 @@ deploy java.sh
 deployment5 master
 deployment4
 deploy into staging
-
+echo good job
+Tested and accepted
